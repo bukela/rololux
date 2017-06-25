@@ -1,5 +1,5 @@
 .logo-img {
-    padding-bottom: 10px;
+    padding: 10px 0 10px 10px;
 }
 .back {
     padding: 5px;
@@ -13,4 +13,17 @@
 }
 .footy {
     overflow: hidden;
+}
+.marketing-txt {
+    word-break: break-all;
+    font-size: 1.2em;
+}
+.image-logo {
+    max-width: 100%;
+}
+.fb-logo {
+    font-size: 16px;
+}
+.big-icon {
+    font-size: 32px;
 }
