@@ -27,3 +27,13 @@
 .big-icon {
     font-size: 32px;
 }
+.nav-link {
+    font-size: 1.25em;
+}
+.nav-link:hover {
+    background-color: #cccccc;
+}
+.footy-txt {
+    font-size: 1.25em;
+    margin-bottom: 3px;
+}

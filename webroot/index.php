@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="img/favicon.ico">
     <title>RoloLux | O nama</title>
-    <link href="css/styles.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+<!--    <link href="css/style.css" rel="stylesheet">-->
     <link href="css/carousel.css" rel="stylesheet">
 <!--    <link href="css/font-awesome.min.css" rel="stylesheet">-->
+    <link href="css/styles.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -117,7 +117,7 @@
         <footer class="footy bg-danger">
             <p class="float-right"><a href="#" class="back">Back to top</a></p>
             <img src="img/logo.png" class="logo-img img-fluid">
-            <p>&nbsp;&nbsp;&copy; 2017 &nbsp;&nbsp;<a href="https://www.facebook.com/RololuxNs"><i class="fa fa-facebook-official big-icon"></i></a></p>
+            <p class="footy-txt">&nbsp;&nbsp;&copy; 2017 &nbsp;&nbsp;<a href="https://www.facebook.com/RololuxNs"><i class="fa fa-facebook-official big-icon"></i></a></p>
         </footer>
     </section>
 </div>
