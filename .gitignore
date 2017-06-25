@@ -1,0 +1,3 @@
+# IDE is ignored
+/.idea/
+frontend/node_modules

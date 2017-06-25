@@ -1,0 +1,16 @@
+.logo-img {
+    padding-bottom: 10px;
+}
+.back {
+    padding: 5px;
+    text-decoration: none;
+    color: #292b2c;
+}
+.back:hover {
+    background-color: #292b2c;
+    color: #cccccc;
+    text-decoration: none;
+}
+.footy {
+    overflow: hidden;
+}
