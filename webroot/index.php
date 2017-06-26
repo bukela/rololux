@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="img/favicon.ico">
     <title>RoloLux | O nama</title>
-<!--    <link href="css/style.css" rel="stylesheet">-->
+    <link href="css/style.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet">
 <!--    <link href="css/font-awesome.min.css" rel="stylesheet">-->
     <link href="css/styles.css" rel="stylesheet">
@@ -14,9 +14,9 @@
 
 <body>
 <nav class="navbar navbar-toggleable-md navbar-light bg-danger fixed-top container">
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
-    </button>
+      </button>
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
