@@ -98,8 +98,10 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
+    </div>
 
     <section>
+    <div class="container">
     <div class="row">
         <div class="col-md-4 container">
             <h2></h2>
@@ -110,18 +112,22 @@
             <h2>O nama</h2>
             <p class="marketing-txt">Firma Rololux ns je osnovana 1950. godine kao samostalna zanatska radnja za proizvodnju i odrzavanje roletni. Firma je pocela sa radom u Novom Sadu, gde se uspesno i odrzala vec tri generacije. Danas smo, zahvaljujući uspešnim poslovanjem postali ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma.</p><p class="marketing-txt"> Vremenom smo došli do zavidnog nivoa proizvodnje korišćenjem savremenih tehnologija, modernizacijom opreme i alata u proizvodnji i praćenjem evropskih i svetskih trendova. Sve to je dovelo do povećanja obima proizvodnje a time i povećanja kvaliteta i proširenja palete proizvoda.</p><p class="marketing-txt"> Mozemo vam se pohvaliti kvalitetom, strucnim i profesionalnim osobljem, raznovrsnošću programa za opremanje kuća, stanova, poslovnoih prostora i sl...Većina naših proizvoda imaju mogućnostu ugradnje elektro motora i daljinskog upravljanja. </p>
         </div>
+    
+    
+    </div>
     </div>
     </section>
-
     <section>
+       <div class="container">
         <footer class="footy bg-danger">
             <p class="float-right"><a href="#" class="back">Back to top</a></p>
             <img src="img/logo.png" class="logo-img img-fluid">
             <p class="footy-txt">&nbsp;&nbsp;&copy; 2017 &nbsp;&nbsp;<a href="https://www.facebook.com/RololuxNs"><i class="fa fa-facebook-official big-icon"></i></a></p>
         </footer>
+        </div>
     </section>
-</div>
-</div>
+
+
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 </body>
