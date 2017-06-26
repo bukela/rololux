@@ -16,14 +16,14 @@
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-    <a class="navbar-brand" href="#"><img src="img/logo.png" class="img-fluid"></a>
+    <a class="navbar-brand" href="index.php"><img src="img/logo.png" class="img-fluid"></a>
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="#">Home</a>
+                <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Kontakt</a>
+                <a class="nav-link" href="contact.html">Kontakt</a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Naša ponuda</a>
@@ -90,11 +90,11 @@
             </div>
         </div>
         <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="carousel-control-prev-icon"></span>
             <span class="sr-only">Previous</span>
         </a>
         <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="carousel-control-next-icon"></span>
             <span class="sr-only">Next</span>
         </a>
     </div>
@@ -121,8 +121,7 @@
        <div class="container">
         <footer class="footy bg-danger">
             <p class="float-right"><a href="#" class="back">Back to top</a></p>
-            <img src="img/logo.png" class="logo-img img-fluid">
-            <p class="footy-txt">&nbsp;&nbsp;&copy; 2017 &nbsp;&nbsp;<a href="https://www.facebook.com/RololuxNs"><i class="fa fa-facebook-official big-icon"></i></a></p>
+            <p class="footy-txt">&nbsp;&nbsp;RoloLux NS&nbsp;&nbsp;&copy; 2017 &nbsp;&nbsp;<a href="https://www.facebook.com/RololuxNs"><i class="fa fa-facebook-official big-icon"></i></a></p>
         </footer>
         </div>
     </section>
