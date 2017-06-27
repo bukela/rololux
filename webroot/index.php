@@ -112,7 +112,6 @@
                 <p class="marketing-txt">Firma Rololux ns je osnovana 1950. godine kao samostalna zanatska radnja za proizvodnju i odrzavanje roletni. Firma je pocela sa radom u Novom Sadu, gde se uspesno i odrzala vec tri generacije. Danas smo, zahvaljujući uspešnim poslovanjem postali ozbiljno privatno preduzeće, koje se bavi proizvodnjom i ugradnjom proizvoda vezanih za enterijer i eksterijer vašeg doma.</p><p class="marketing-txt"> Vremenom smo došli do zavidnog nivoa proizvodnje korišćenjem savremenih tehnologija, modernizacijom opreme i alata u proizvodnji i praćenjem evropskih i svetskih trendova. Sve to je dovelo do povećanja obima proizvodnje a time i povećanja kvaliteta i proširenja palete proizvoda.</p><p class="marketing-txt"> Mozemo vam se pohvaliti kvalitetom, strucnim i profesionalnim osobljem, raznovrsnošću programa za opremanje kuća, stanova, poslovnoih prostora i sl...Većina naših proizvoda imaju mogućnostu ugradnje elektro motora i daljinskog upravljanja. </p>
             </div>
 
-
         </div>
     </div>
 </section>
