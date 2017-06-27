@@ -8,10 +8,10 @@
 
 }
 .navbar {
-  box-shadow: 0px 3px 3px -3px #737373;
+  box-shadow: 0px 5px 3px -3px #737373;
 }
 .footy {
-  box-shadow: 0px 3px 3px -3px #737373;
+  box-shadow: 0px 5px 3px -3px #737373;
   overflow: hidden;
 }
 .logo-img {
@@ -31,7 +31,7 @@
   overflow: hidden;
 }
 .marketing-txt {
-  word-break: break-all;
+  word-break: keep-all;
   font-size: 1.2em;
 }
 .image-logo {
@@ -52,4 +52,18 @@
 .footy-txt {
   font-size: 1.25em;
   margin-bottom: 3px;
+}
+section.servis {
+  margin-top: 50px;
+}
+body {
+  max-width: 100%;
+  background: linear-gradient(#ffffff, darkgray);
+}
+div.carousel-inner {
+  box-shadow: 0px 5px 5px -3px #1d1e1f;
+}
+iframe {
+  box-shadow: 0px 5px 3px -3px #737373;
+  margin-bottom: 30px;
 }
