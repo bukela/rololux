@@ -102,7 +102,7 @@
 <section>
     <div class="container">
         <div class="row">
-            <div class="col-md-4 container">
+            <div class="col-md-4 container marketing-txt">
                 <h2></h2>
                 <img src="img/logo.png" class="image-logo">
                 <p></p>
