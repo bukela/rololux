@@ -104,7 +104,7 @@
         <div class="row">
             <div class="col-md-4 container marketing-txt">
                 <h2></h2>
-                <img src="img/logo.png" class="image-logo">
+                <img src="img/roletna.gif" class="image-logo">
                 <p></p>
             </div>
             <div class="col-md-8 container marketing-txt">
