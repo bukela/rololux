@@ -1,5 +1,4 @@
 
-
 Tel.: 021/ 2466 467
 Mob.: 063/ 8 063 531 i 064/ 115 95 32
 
@@ -24,7 +23,7 @@ Naša ponuda
     Brzo i trajno!
 
 
-    Početna | O nama | Kontakt 
+ 
 
 
 
@@ -35,7 +34,6 @@ home-icon
 fax 021/ 2466-467
 mob 063/ 8-063-531
 mob 064/ 11-59-532
-home-icon
 
 rololuxns@yahoo.com
 RoloLux
