@@ -1,0 +1,13 @@
+Milestone:
+
+1. All pages with navigation completed
+
+Section Tasks:
+1. Navigation html structure,
+2. Image slider structure,
+3. Pages body content,
+4. Footer,
+5. Contact links, map, fb logo
+6. Pages css
+7. Design tweaks
+
