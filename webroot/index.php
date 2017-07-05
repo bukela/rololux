@@ -20,7 +20,7 @@
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="index.php">Pocetna</a>
+                <a class="nav-link" href="index.php">Početna</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="contact.html">Kontakt</a>
@@ -118,7 +118,7 @@
 <section>
     <div class="container">
         <footer class="footy bg-danger">
-            <p class="float-right"><a href="#" class="back">Pocetna</a></p>
+            <p class="float-right"><a href="#" class="back">Back to top</a></p>
             <p class="float-right marketing-txt footy-contact">Subotička 67, 21000 Novi Sad<br>fax: 021/ 2466-467<br>mob: 063/ 8063-531<br>mob: 064/ 1159-532</p>
             <p class="footy-txt">&nbsp;&nbsp;RoloLux NS&nbsp;&nbsp;&copy; 2017 &nbsp;&nbsp;<a href="https://www.facebook.com/RololuxNs" class="big-icon"><i class="fa fa-facebook-official"></i></a></p>
         </footer>
