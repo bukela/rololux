@@ -31,12 +31,12 @@
                     <a class="dropdown-item my-link" href="roletne.html">Roletne</a>
                     <a class="dropdown-item my-link" href="tende.html">Tende</a>
                     <a class="dropdown-item my-link" href="venecijaneri.html">Venecijaneri</a>
-                    <a class="dropdown-item my-link" href="rolo_zavese.html">Rolo zavese</a>
-                    <a class="dropdown-item my-link" href="trakaste_zavese.html">Trakaste zavese</a>
+                    <a class="dropdown-item my-link" href="rolo-zavese.html">Rolo zavese</a>
+                    <a class="dropdown-item my-link" href="trakaste-zavese.html">Trakaste zavese</a>
                     <a class="dropdown-item my-link" href="komarnici.html">Komarnici</a>
                     <a class="dropdown-item my-link" href="dihtovanje.html">Dihtovanje</a>
                     <a class="dropdown-item my-link" href="servis.html">Servis</a>
-                    <a class="dropdown-item my-link" href="adaptacija_prostora.html">Adaptacija prostora</a>
+                    <a class="dropdown-item my-link" href="adaptacija-prostora.html">Adaptacija prostora</a>
                 </div>
             </li>
         </ul>
