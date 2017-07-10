@@ -39,9 +39,9 @@ services:
       - default
       - traefik_proxy
     labels:
-      - 'traefik.backend=rololuxnew_nginx'
+      - 'traefik.backend=rololux_nginx'
       - 'traefik.port=80'
-      - 'traefik.frontend.rule=Host:rololuxnew.dev.loc'
+      - 'traefik.frontend.rule=Host:rololux.dev.loc'
       - "traefik.docker.network=traefik_proxy"
 
 networks:
