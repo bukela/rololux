@@ -104,3 +104,16 @@ ul.navbar-nav li{
   color: #292b2c;
   background: #cccccc;
 }
+.footy {
+  background-image: url("../img/cityscape.png");
+  background-repeat: repeat-x;
+  background-size: contain;
+}
+
+p.footy-contact, p.footy-txt {
+  color: #292b2c;
+  font-weight: 600;
+}
+.footy i {
+  color: #c12e2a;
+}
