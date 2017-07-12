@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="img/favicon.ico">
+    <link rel="icon" type="image/ico" href="img/favicon.ico">
+    <meta name="description" content="Samostalna zanatska radnja za proizvodnju i odrzavanje roletni.">
     <title>RoloLux | O nama</title>
     <link href="css/style.css" rel="stylesheet">
-    <!--    <link href="css/font-awesome.min.css" rel="stylesheet">-->
+<!--        <link href="css/font-awesome.min.css" rel="stylesheet">-->
     <link href="css/styles.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
