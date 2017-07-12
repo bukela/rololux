@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="img/favicon.ico">
+    <link rel="icon" type="image/ico" href="img/favicon.ico">
     <meta name="description" content="Samostalna zanatska radnja za proizvodnju i odrzavanje roletni.">
     <title>RoloLux | O nama</title>
     <link href="css/style.css" rel="stylesheet">
