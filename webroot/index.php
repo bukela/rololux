@@ -54,7 +54,7 @@
         </ol>
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <img class="first-slide" src="img/slider/home/pic11.jpg" alt="First slide">
+                <img class="first-slide img-fluid" src="img/slider/home/pic11.jpg" alt="First slide">
                 <div class="container">
                     <div class="carousel-caption d-none d-md-block">
 
@@ -63,7 +63,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="second-slide" src="img/slider/home/pic2.jpg" alt="Second slide">
+                <img class="second-slide img-fluid" src="img/slider/home/pic2.jpg" alt="Second slide">
                 <div class="container">
                     <div class="carousel-caption d-none d-md-block">
 
@@ -72,7 +72,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="third-slide" src="img/slider/home/pic3.jpg" alt="Third slide">
+                <img class="third-slide img-fluid" src="img/slider/home/pic3.jpg" alt="Third slide">
                 <div class="container">
                     <div class="carousel-caption d-none d-md-block">
 
@@ -81,7 +81,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="third-slide" src="img/slider/home/pic41.jpg" alt="Third slide">
+                <img class="fourth-slide img-fluid" src="img/slider/home/pic41.jpg" alt="Third slide">
                 <div class="container">
                     <div class="carousel-caption d-none d-md-block">
 
